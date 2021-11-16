@@ -1,1 +1,1 @@
-# bojan_tanasic_resume
+#cv_version 2.0
